@@ -1,0 +1,259 @@
+body{
+
+    margin: 0;
+    background-color:white;
+    width: 100%;
+    height: 960px;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+
+}
+
+/*=====================SESSION_DEFAULT============================*/
+
+.banner{
+    
+    margin-top: 5%;
+    background-color: #20B2AA;
+    height: 500px;
+    
+}
+
+#br{
+    margin-bottom: 8%;
+}
+
+.banner h1, .banner h3{
+
+    margin-right: 10%;
+    text-align: right;
+    line-height: 10px;
+}
+
+.banner h1{
+    font-size: 100px;
+}
+
+.banner h3{
+    font-size: 25px;
+    color: white;
+}
+
+/*=====================CONTA-DIGITAL============================*/
+
+.conta_digital{
+    
+    margin-top: 5%;
+    background-color:#20B2AA;
+    height: 500px;
+    
+}
+
+#br{
+    margin-bottom: 1%;
+}
+
+.conta_digital h1,.conta_digital h3{
+
+    margin-right: 10%;
+    text-align: right;
+    line-height: 5px;
+}
+
+.conta_digital h1{
+    font-size: 100px;
+}
+
+.conta_digital h3,.conta_digital a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.conta_digital strong{
+
+    color:#1c1c1c;
+    cursor: pointer;
+}
+
+.conta_digital a{
+
+    position: relative;
+    float: right;
+    margin-right: 10%;
+}
+
+#bt_voltar{
+
+    width: 30px;
+}
+
+
+
+/*=====================SAQUE-SEM-CARTAO============================*/
+
+.saque-digital{
+    
+    margin-top: 5%;
+    background-color:#20B2AA;
+    height: 500px;
+    
+}
+
+#br{
+    margin-bottom: 1%;
+}
+
+.saque-digital h2,h3{
+
+    margin-left: 10%;
+    text-align: left;
+    line-height: 50px;
+}
+
+.saque-digital h2{
+    font-size: 50px;
+}
+
+.saque-digital h3, .saque-digital a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+
+.saque-digital strong{
+
+    color:#1c1c1c;
+    cursor: pointer;
+}
+
+.saque-digital a{
+
+    position: relative;
+    float: left;
+    margin-left: 10%;
+}
+
+#bt_voltar{
+
+    width: 30px;
+}
+
+#qrcode{
+
+    position: relative;
+    left: 69%;
+    width: 100px;
+    margin-top: -25%;
+
+}
+
+#cel{
+    position: fixed;
+    right: 4.5%;
+    margin-right: 10%;
+    margin-top: -18%;
+    height: 450px;
+}
+
+
+/*======================AUMENTAR-CREDITO============================*/
+
+.aumentar-credito{
+
+    margin-top: 5%;
+    background-color:#20B2AA;
+    height: 500px;
+
+}
+
+#br{
+    margin-bottom: 1%;
+}
+
+.aumentar-credito h1,.aumentar-credito h3{
+    margin-left: 2%;
+    text-align: left;
+    line-height: 50px;
+}
+
+.aumentar-credito h1{
+    font-size: 60px;
+}
+
+.aumentar-credito h3,.aumentar-credito a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.aumentar-credito strong{
+
+    color:#1c1c1c;
+    cursor: pointer;
+}
+
+.aumentar-credito a{
+
+    position: relative;
+    float: left;
+    margin-left: 5%;
+}
+
+.aumentar-credito img{
+    position: relative;
+    width: 300px;
+    float: right;
+    margin-right: 15%;
+    margin-top: -15%;
+}
+
+#bt_voltar{
+    width: 20px;
+}
+
+
+/*======================TRAB-CONOSCO============================*/
+
+.trab-conosco{
+    margin-top: 5%;
+    background-color:#20B2AA;
+    height: 500px;
+}
+
+#br{
+    margin-bottom: 1%;
+}
+
+.trab-conosco h1,.trab-conosco h3,.trab-conosco a{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 2%;
+    color: white;
+    text-align: left;
+    line-height: 50px;
+}
+
+.trab-conosco h1{
+    font-size: 60px;
+    color: #1c1c1c;
+}
+
+.trab-conosco .bloco{
+
+    float: left;
+    width: 40%;
+}
+
+.bloco input{
+
+    width: 80%;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    margin-top: 5%;
+}
+
+#bt_voltar{
+    width: 20px;
+}
+

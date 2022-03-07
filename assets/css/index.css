@@ -1,0 +1,41 @@
+body{
+
+    margin: 0;
+    background-color:white;
+    width: 100%;
+    height: 960px;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+
+}
+
+/*=====================BANNER============================*/
+
+.banner{
+    
+    margin-top: 5%;
+    background-color: #20B2AA;
+    height: 500px;
+    
+}
+
+#br{
+    margin-bottom: 8%;
+}
+
+.banner h1,h3{
+
+    margin-right: 10%;
+    text-align: right;
+    line-height: 10px;
+}
+
+.banner h1{
+    font-size: 100px;
+}
+
+.banner h3{
+    font-size: 25px;
+    color: white;
+}
+
+
